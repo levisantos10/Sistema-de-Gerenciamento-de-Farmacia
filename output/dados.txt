@@ -1,0 +1,25 @@
+12345678901234|Dipirona|Neo Quimica|5,50|12/2025|Analgésico e antitérmico para dor e febre|medicamento
+23456789012345|Ibuprofeno|EMS|12,70|05/2025|Anti-inflamatório e analgésico para dor|medicamento
+34567890123456|Paracetamol|Medley|8,90|02/2026|Analgésico e antitérmico para dor leve|medicamento
+45678901234567|Omeprazol|Eurofarma|19,90|12/2025|Inibidor de bomba de prótons para azia|medicamento
+56789012345678|Amoxicilina|Aché|25,50|08/2024|Antibiótico para infecções bacterianas|medicamento
+67890123456789|Loratadina|Medley|14,30|11/2024|Anti-histamínico para alergias|medicamento
+78901234567890|Sinvastatina|EMS|32,90|03/2026|Redutor de colesterol|medicamento
+89012345678901|Losartana|Eurofarma|28,70|07/2025|Anti-hipertensivo|medicamento
+90123456789012|Metformina|Aché|18,20|09/2025|Hipoglicemiante para diabetes|medicamento
+01234567890123|Diazepam|Neo Quimica|22,40|04/2024|relaxante muscular|medicamento
+11223344556677|Sabonete Líquido|Palmolive|6,90|10/2024|Hidratante para pele sensível|higiene
+22334455667788|Shampoo Anticaspa|Seda|18,90|08/2024|Controle de caspa e coceira|higiene
+33445566778899|Creme Dental|Colgate|4,50|12/2025|Proteção contra cáries|higiene
+44556677889900|Desodorante Roll-on|Rexona|14,90|09/2024|Proteção 48h contra odor|higiene
+55667788990011|Absorvente Intimus|Johnson|12,30|05/2025|Proteção diária feminina|higiene
+66778899001122|Protetor Solar FPS 50|Nivea|42,50|11/2024|Proteção contra raios UVA/UVB|cosmético
+77889900112233|Hidratante Facial|Natura|27,50|07/2025|Hidratação profunda 24h|cosmético
+88990011223344|Batom Hidratante|Avon|15,90|02/2025|Hidratação e cor|cosmético
+99001122334455|Máscara de Cílios|Maybelline|29,90|10/2024|Volume e alongamento|cosmético
+00112233445566|Perfume Masculino|O Boticário|89,90|06/2026|Fragrância amadeirada|cosmético
+10293847561234|Vitamina C|Nutraway|29,90|03/2025|Suplemento vitamínico antioxidante|suplemento
+29384756123456|Ômega 3|NutriGold|45,70|08/2025|Suplemento de ácidos graxos|suplemento
+38475612345678|Whey Protein|Growth|79,90|12/2024|Proteína para musculação|suplemento
+47561234567890|Multivitamínico|Centrum|52,30|05/2025|Complexo de vitaminas e minerais|suplemento
+56123456789012|Colágeno|Sanavita|38,50|09/2024|Suplemento para pele e articulações|suplemento
